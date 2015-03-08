@@ -1,2 +1,5 @@
 # Dummy-C
-C code snippet
+C code snippet for dummies.
+
+# Credits to
+breakthen
